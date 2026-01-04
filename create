@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for i in {1..100}
+do
+  folder_name="Day-$i"
+  mkdir -p "$folder_name"
+  echo "# $folder_name" > "$folder_name/README.md"
+done
+
+echo "100 folders (Day-1 to Day-100) created with README.md files."
+
