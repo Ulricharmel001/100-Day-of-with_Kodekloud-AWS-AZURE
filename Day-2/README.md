@@ -38,7 +38,9 @@ _Seccessful creation of Security Group:_
 ![Security Group](./Security-group-created.png)
 
 ---
+---
 
 _Exercise Completed:_   
-![Completed](./Completed.png)
+![Completed](completed.png)
 
+---
