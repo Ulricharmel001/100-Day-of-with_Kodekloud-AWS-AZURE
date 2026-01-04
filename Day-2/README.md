@@ -36,5 +36,9 @@ Security groups are a fundamental part of AWS networking. They protect instances
 ## Screenshot
 _Seccessful creation of Security Group:_  
 ![Security Group](./Security-group-created.png)
+
+---
+
+_Exercise Completed:_   
 ![Completed](./Completed.png)
 
