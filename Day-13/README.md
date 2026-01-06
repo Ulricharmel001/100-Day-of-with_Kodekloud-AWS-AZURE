@@ -43,10 +43,16 @@ AMIs are a core building block for scalability and reliability in AWS. Instead o
 ## Screenshots
 _ALl Images from today's task:_
 
+  _AMI Creation Process:_
 ![AMI Creation Process](./Creation-info.png)
 ---
+_AMI Status Available:_
 ![AMI Status Available](./available-mode.png)
+
 ---
+_Source EC2 Instance:_
 ![Source EC2 Instance](./Available-ec2.png)
+
 ---
+_AMI Details Page:_
 ![AMI Details Page](./task_details.png)
