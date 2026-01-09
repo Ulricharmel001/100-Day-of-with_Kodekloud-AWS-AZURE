@@ -49,7 +49,7 @@ _Snapshot creation in progress:_
 ---
 
 _Successfully completed snapshot:_  
-![Completed](./day-15-created-successfllypng)
+![Completed](./day-15-created-successflly.png)
 
 ---
 
