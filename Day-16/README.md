@@ -42,7 +42,7 @@ Consistent daily practice continues to strengthen my understanding of AWS fundam
 
 ## Screenshot
 _Successfully created IAM user:_  
-![IAM User Created](./day-16-1-created-cli\.png)
+![IAM User Created](./day-16-1-created-cli.png)
 
 ---
 
