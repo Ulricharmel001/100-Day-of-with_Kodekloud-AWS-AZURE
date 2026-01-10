@@ -142,16 +142,34 @@ aws iam delete-group --group-name iamgroup_yousuf
 - Initially unfamiliar with the exact CLI syntax for IAM operations
 - Had to verify the correct parameter format for group names
 
+### Impact on Career Goals
+As I prepare for AWS Community Builder application, this hands-on experience with IAM demonstrates:
+- Practical AWS service knowledge
+- Understanding of security best practices
+- Ability to document and share knowledge
+- Commitment to continuous learning
+
+---
 
 ## Screenshots
+
+_Zero group before creation:_
+![Zero Group](./day-17-zero-group-.png)
+
 _Successfully created IAM group:_
-![IAM Group Created](./day-17-created-group.png)
+![IAM Group Created](./day-17-creatrd-cli-successful.png)
 
-_Group visible in AWS Console:_
-![IAM Group Console](./day-17-group-console.png)
+_Group available on console:_
+![Group Available on Console](./day17-available-console.png)
 
-_Command execution result:_
-![Command Result](./day-17-command-result.png)
+_List of all groups:_
+![All Groups](./day-17-group-available-on-list-group-command.png)
+
+_Task completion check:_
+![Task Completion Check](./day-17-done-check.png)
+
+_Task details:_
+![Task Details](./day-17-task-details.png)
 
 ---
 
