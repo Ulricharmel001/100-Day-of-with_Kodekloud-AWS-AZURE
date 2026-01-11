@@ -142,13 +142,6 @@ aws iam delete-group --group-name iamgroup_yousuf
 - Initially unfamiliar with the exact CLI syntax for IAM operations
 - Had to verify the correct parameter format for group names
 
-### Impact on Career Goals
-As I prepare for AWS Community Builder application, this hands-on experience with IAM demonstrates:
-- Practical AWS service knowledge
-- Understanding of security best practices
-- Ability to document and share knowledge
-- Commitment to continuous learning
-
 ---
 
 ## Screenshots
