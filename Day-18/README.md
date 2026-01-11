@@ -204,9 +204,6 @@ _Policy creation successful:_
 _Available on console:_
 ![Policy Available on Console](./day-18-policy-on-console.png)
 
-_Completion check:_
-![Completion Check](./day-18-completion-check-done.png)
-
 _Task completion verification:_
 ![Task Completion Verification](./day-18-completion-ceheck-done.png)
 
