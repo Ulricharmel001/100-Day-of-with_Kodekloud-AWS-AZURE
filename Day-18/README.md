@@ -198,14 +198,15 @@ aws iam delete-policy --policy-arn arn:aws:iam::691595780564:policy/iampolicy_ki
 
 ## Screenshots
 
-_Policy creation successful:_
-![Policy Created Successfully](./day-18-policy-created-succesful.png)
+_Policy created successfully:_
+![Policy Created Successfully](./day-18-policy-created%20-succesful.png)
 
-_Available on console:_
+_Policy available on console:_
 ![Policy Available on Console](./day-18-policy-on-console.png)
 
-_Task completion verification:_
-![Task Completion Verification](./day-18-completion-ceheck-done.png)
+_Task completion check:_
+![Task Completion Check](./day-18-completion-check-done.png)
+
 
 ---
 
