@@ -146,8 +146,6 @@ aws iam delete-group --group-name iamgroup_yousuf
 
 ## Screenshots
 
-_Zero group before creation:_
-![Zero Group](./day-17-zero-group-.png)
 
 _Successfully created IAM group:_
 ![IAM Group Created](./day-17-creatrd-cli-successful.png)
